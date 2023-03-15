@@ -7,12 +7,12 @@ Esse projeto tem como objetivo realizar a previsão do valor de venda de um carr
 
 Treinamento da rede neural com todos os dados da base
 
-    autos_regressao_um_valor.py
+    📝autos_regressao_um_valor.py
 
 Treinamento da rede neural cruzada, onde todos os dados são treinados e testados
 
-    autos_regressao_cruzada.py
+    📝autos_regressao_cruzada.py
 
 Treinamento para encontrar os melhores parâmetros
 
-    autos_regressao_tuning.py
+    📝autos_regressao_tuning.py
