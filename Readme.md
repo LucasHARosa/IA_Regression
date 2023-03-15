@@ -1,6 +1,6 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/IA_regressao)
-![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_regressao)
-![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_regressao)
+![GitHub repo size](https://img.shields.io/github/repo-size/LucasHARosa/IA_Regression)
+![GitHub top language](https://img.shields.io/github/languages/top/LucasHARosa/IA_Regression)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasHARosa/IA_Regression)
 
 # Redes Neurais artificiais: Regressão
 
